@@ -1,0 +1,11 @@
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\bin\Debug\netcoreapp2.0\SOSampleCode.deps.json
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\bin\Debug\netcoreapp2.0\SOSampleCode.runtimeconfig.json
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\bin\Debug\netcoreapp2.0\SOSampleCode.runtimeconfig.dev.json
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\bin\Debug\netcoreapp2.0\SOSampleCode.dll
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\bin\Debug\netcoreapp2.0\SOSampleCode.pdb
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\obj\Debug\netcoreapp2.0\SOSampleCode.csprojResolveAssemblyReference.cache
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\obj\Debug\netcoreapp2.0\SOSampleCode.csproj.CoreCompileInputs.cache
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\obj\Debug\netcoreapp2.0\SOSampleCode.AssemblyInfoInputs.cache
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\obj\Debug\netcoreapp2.0\SOSampleCode.AssemblyInfo.cs
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\obj\Debug\netcoreapp2.0\SOSampleCode.dll
+C:\Shyju\OSS\SOSampleCode\SOSampleCode\obj\Debug\netcoreapp2.0\SOSampleCode.pdb
